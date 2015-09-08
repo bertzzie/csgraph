@@ -1,0 +1,29 @@
+{
+  "name": "PresentasiMPT",
+  "version": "0.0.1",
+  "authors": [
+    "Alex Xandra Albert Sim <bertzzie@gmail.com>"
+  ],
+  "description": "Presentasi Tentang Ilmu Komputer dan Jurusan Teknik Informatika STMIK Mikroskil Medan",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "ilmu-komputer",
+    "presentasi",
+    "visualisasi-data",
+    "informatika"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6",
+  }
+}
