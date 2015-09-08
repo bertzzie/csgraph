@@ -22,7 +22,7 @@ arc = d3.svg.arc()
         .innerRadius(function (d) { return Math.max(0, y(d.y)); })
         .outerRadius(function (d) { return Math.max(0, y(d.y + d.dy)); });
 
-d3.json("/data/cs-bodyofknowledge.json", function (error, root) {
+d3.json("data/cs-bodyofknowledge.json", function (error, root) {
 	if (error) throw error;
 
 	var path = svg.selectAll("path")
