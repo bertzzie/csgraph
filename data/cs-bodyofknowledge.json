@@ -1,0 +1,98 @@
+{
+	"name": "Computer Science",
+	"children": [
+		{
+			"name": "Theoritical Computer Science",
+			"children": [
+				{
+					"name": "Theory of Computation",
+					"children": [
+						{"name": "Automata Theory", "size": 2000},
+						{"name": "Computability Theory", "size": 2000},
+						{"name": "Computational Complexity", "size": 2000},
+						{"name": "Formal Language", "size": 2000},
+						{"name": "Quantum Computing", "size": 2000}
+					]
+				},
+				{"name": "Information & Coding Theory", "size": 10000},
+				{
+					"name": "Algorithm and Data Structure",
+					"children": [
+						{"name": "Algorithms", "size": 2500},
+						{"name": "Analysis of Algorithm", "size": 2500},
+						{"name": "Algorithm Strategy", "size": 2500},
+						{"name": "Data Structure", "size": 2500}
+					]
+				},
+				{
+					"name": "Programming Language and Methodology",
+					"children": [
+						{"name": "Type Theory", "size": 3333},
+						{"name": "Compiler Design", "size": 3333},
+						{"name": "Programming Language", "size": 3333}
+					]
+				},
+				{"name": "Formal Method", "size": 10000}
+			]
+		},
+		{
+			"name": "Applied Computer Science",
+			"children": [
+				{
+					"name": "Artificial Intelligence",
+					"children": [
+						{"name": "Machine Learning", "size": 695},
+						{"name": "Computer Vision", "size": 695},
+						{"name": "Image Processing", "size": 695},
+						{"name": "Pattern Recognition", "size": 695},
+						{"name": "Data Mining", "size": 695},
+						{"name": "Evolutionary Computation", "size": 695},
+						{"name": "Knowledge Representation", "size": 695},
+						{"name": "Natural Language Processing", "size": 695},
+						{"name": "Robotics", "size": 695}
+					]
+				},
+				{
+					"name": "Computer Architecture & Engineering",
+					"children": [
+						{"name": "Digital Logic", "size": 1040},
+						{"name": "Micro Architecture", "size": 1040},
+						{"name": "Multi Processing", "size": 1040},
+						{"name": "Ubiquiotus Computing", "size": 1040},
+						{"name": "System Architecture", "size": 1040},
+						{"name": "Operating System", "size": 1040}
+					]
+				},
+				{"name": "Computer Graphics & Visualization", "size": 6250},
+				{"name": "Computer Science & Cryptography", "size": 6250},
+				{"name": "Computer Network", "size": 6250},
+				{"name": "Concurrent, Parallel, & Distributed System", "size": 6250},
+				{
+					"name": "Database",
+					"children": [
+						{"name": "Data Design & Modeling", "size": 1250},
+						{"name": "Data Storage System", "size": 1250},
+						{"name": "Data Security", "size": 1250},
+						{"name": "Data Transaction & Concurrency", "size": 1250},
+						{"name": "Data Maintenance & Tuning", "size": 1250}
+					]
+				},
+				{
+					"name": "Software Engineering",
+					"children": [
+						{"name": "Requirement Engineering", "size": 625},
+						{"name": "Soft. Analysis & Design", "size": 625},
+						{"name": "Soft. Construction", "size": 625},
+						{"name": "Soft. Testing", "size": 625},
+						{"name": "Soft. Maintenance", "size": 625},
+						{"name": "Soft. Configuration Management", "size": 625},
+						{"name": "SE Management", "size": 625},
+						{"name": "SE Process", "size": 625},
+						{"name": "Soft. Quality Management", "size": 625},
+						{"name": "SE Tools & Methodology", "size": 625}
+					]
+				}
+			]
+		}
+	]
+}
